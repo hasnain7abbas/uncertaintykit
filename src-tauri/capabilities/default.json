@@ -1,0 +1,11 @@
+{
+  "identifier": "default",
+  "description": "Default capabilities for UncertaintyKit",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "dialog:default",
+    "fs:default",
+    "clipboard-manager:default"
+  ]
+}
